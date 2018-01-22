@@ -1,6 +1,21 @@
+# Visualize Traffic Accidents in UK
+
+![datashader-uk-traffic-banner.jpg](assets/images/datashader-uk-traffic-banner.jpg)
+
+This repository contains a series of data science notebooks that performs data science, visualization, and predictive analytics against the [kaggle Dataset: 1.6M accidents & traffic flow over 16 years - Visualise and analyse rich data on traffic demographics](https://www.kaggle.com/daveianhickey/2000-16-traffic-flow-england-scotland-wales/version/10)
+
+All notebooks are stored under the [`notebooks`](./notebooks) directory.
 
 ---
 
+Table of Content
+
+- [Setup Instructions](#Setup-Instructions)
+- [Notebooks](#Notebooks)
+
+---
+
+<a id="Setup-Instructions"></a>
 ## Setup Instructions
 
 ### Download Data and Setup Input Directory
@@ -65,6 +80,7 @@ Navigate to the `notebooks` directory, and pick the notebook you'd like.
 
 ---
 
+<a id="Notebooks"></a>
 ## Notebooks
 
 All notebooks are stored under the [`notebooks`](./notebooks) directory.
@@ -72,3 +88,4 @@ All notebooks are stored under the [`notebooks`](./notebooks) directory.
 [Visualize-Traffic-Accidents-in UK-with-Datashader](./Visualize-Traffic-Accidents-in UK-with-Datashader.ipynb): start with this one. It introduces you the power of big data visualization with Bokeh and Datashader.
 
 [Useful-Resources.ipynb(./Useful-Resources.ipynb): I use this notebook to keep track of useful links. Will be updated from time to time.
+
