@@ -85,7 +85,7 @@ Navigate to the `notebooks` directory, and pick the notebook you'd like.
 
 All notebooks are stored under the [`notebooks`](./notebooks) directory.
 
-[Visualize-Traffic-Accidents-in UK-with-Datashader](./Visualize-Traffic-Accidents-in UK-with-Datashader.ipynb): start with this one. It introduces you the power of big data visualization with Bokeh and Datashader.
+[Visualize-Traffic-Accidents-in-UK-with-Datashader](./Visualize-Traffic-Accidents-in-UK-with-Datashader.ipynb): start with this one. It introduces you the power of big data visualization with Bokeh and Datashader.
 
 [Useful-Resources.ipynb(./Useful-Resources.ipynb): I use this notebook to keep track of useful links. Will be updated from time to time.
 
