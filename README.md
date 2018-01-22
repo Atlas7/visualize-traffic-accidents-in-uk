@@ -2,6 +2,13 @@
 
 ![datashader-uk-traffic-banner.jpg](assets/images/datashader-uk-traffic-banner.jpg)
 
+View the following notebooks on nbviewer:
+
+- [Visualize Traffic Accidents in UK with Datashader](https://nbviewer.jupyter.org/github/Atlas7/visualize-traffic-accidents-in-uk/blob/master/notebooks/Visualize-Traffic-Accidents-in-UK-with-Datashader.ipynb#)
+- (upcoming...)
+
+---
+
 This repository contains a series of data science notebooks that performs data science, visualization, and predictive analytics against the [kaggle Dataset: 1.6M accidents & traffic flow over 16 years - Visualise and analyse rich data on traffic demographics](https://www.kaggle.com/daveianhickey/2000-16-traffic-flow-england-scotland-wales/version/10)
 
 All notebooks are stored under the [`notebooks`](./notebooks) directory.
@@ -83,9 +90,8 @@ Navigate to the `notebooks` directory, and pick the notebook you'd like.
 <a id="Notebooks"></a>
 ## Notebooks
 
-All notebooks are stored under the [`notebooks`](./notebooks) directory.
+All notebooks are stored under the [`notebooks`](./notebooks) directory. View these notebooks on [nbviewer](https://nbviewer.jupyter.org/).
 
-[Visualize-Traffic-Accidents-in-UK-with-Datashader](./Visualize-Traffic-Accidents-in-UK-with-Datashader.ipynb): start with this one. It introduces you the power of big data visualization with Bokeh and Datashader.
-
-[Useful-Resources.ipynb(./Useful-Resources.ipynb): I use this notebook to keep track of useful links. Will be updated from time to time.
+- [Visualize-Traffic-Accidents-in-UK-with-Datashader](.https://nbviewer.jupyter.org/github/Atlas7/visualize-traffic-accidents-in-uk/blob/master/notebooks/Visualize-Traffic-Accidents-in-UK-with-Datashader.ipynb#): start with this one. It introduces you the power of big data visualization with Bokeh and Datashader.
+- [Useful-Resources.ipynb](https://nbviewer.jupyter.org/github/Atlas7/visualize-traffic-accidents-in-uk/blob/master/notebooks/Useful-Resources.ipynb#): I use this notebook to keep track of useful links. Will be updated from time to time.
 
