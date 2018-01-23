@@ -5,7 +5,9 @@
 View the following notebooks on nbviewer:
 
 - [Visualize Traffic Accidents in UK with Datashader](https://nbviewer.jupyter.org/github/Atlas7/visualize-traffic-accidents-in-uk/blob/master/notebooks/Visualize-Traffic-Accidents-in-UK-with-Datashader.ipynb#)
-- (upcoming...)
+- [other notebooks](./notebooks/README.md)
+
+All notebooks are stored at the [`notebooks`](./notebooks) directory.
 
 ---
 
@@ -90,8 +92,5 @@ Navigate to the `notebooks` directory, and pick the notebook you'd like.
 <a id="Notebooks"></a>
 ## Notebooks
 
-All notebooks are stored under the [`notebooks`](./notebooks) directory. View these notebooks on [nbviewer](https://nbviewer.jupyter.org/).
-
-- [Visualize-Traffic-Accidents-in-UK-with-Datashader](.https://nbviewer.jupyter.org/github/Atlas7/visualize-traffic-accidents-in-uk/blob/master/notebooks/Visualize-Traffic-Accidents-in-UK-with-Datashader.ipynb#): start with this one. It introduces you the power of big data visualization with Bokeh and Datashader.
-- [Useful-Resources.ipynb](https://nbviewer.jupyter.org/github/Atlas7/visualize-traffic-accidents-in-uk/blob/master/notebooks/Useful-Resources.ipynb#): I use this notebook to keep track of useful links. Will be updated from time to time.
+All notebooks are stored under the [`notebooks`](./notebooks) directory. The [Notebook README](./notebooks/README.md) contains links to view the notebooks via the [Jupyter nbviewer tool](https://nbviewer.jupyter.org/).
 
