@@ -8,4 +8,6 @@ View these notebooks via [Jupyter nbviewer](https://nbviewer.jupyter.org/)
 
 **[Deploy Interactive Bokeh-Datashader Image as a Web Application](https://nbviewer.jupyter.org/github/Atlas7/visualize-traffic-accidents-in-uk/blob/master/notebooks/Deploy-Interactive-Bokeh-Datashader-Image-as-a-Web-Application.ipynb)**: contains some of my own searches on deploying a Bokeh-Datashader Interative Image as a Web Application. It appears Holoview and Bokeh Server combo might be a promising solution. Will keep this notebook updated.
 
+**[Visualize Traffic Accidents by Hours with HoloViews](https://nbviewer.jupyter.org/github/Atlas7/visualize-traffic-accidents-in-uk/blob/master/notebooks/Visualize-Traffic-Accidents-by-Hours-with-HoloView.ipynb)**: Visualize UK Traffic Accident by Hours - via interactive slide bar, as well as static displays. Lots of Pandas data transformation techniques used including `groupby`, SQL Left Join and array-to-dictionary transformation. Both Linear and Histogram Equalization plots are created. Handy template notebook.
+
 **[Useful-Resources.ipynb](https://nbviewer.jupyter.org/github/Atlas7/visualize-traffic-accidents-in-uk/blob/master/notebooks/Useful-Resources.ipynb)**: I use this notebook to keep track of useful links. Will be updated from time to time.
