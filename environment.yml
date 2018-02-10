@@ -42,6 +42,7 @@ dependencies:
  - rasterio
  - requests
  - scikit-image
+ - scikit-learn
  - scipy
  - shapely
  - snappy
@@ -53,3 +54,4 @@ dependencies:
    - cachey
    - streamz==0.2.0
    - webargs
+   - tensorflow
