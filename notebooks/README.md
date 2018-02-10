@@ -11,3 +11,7 @@ View these notebooks via [Jupyter nbviewer](https://nbviewer.jupyter.org/)
 **[Visualize Traffic Accidents by Hours with HoloViews](https://nbviewer.jupyter.org/github/Atlas7/visualize-traffic-accidents-in-uk/blob/master/notebooks/Visualize-Traffic-Accidents-by-Hours-with-HoloView.ipynb)**: Visualize UK Traffic Accident by Hours - via interactive slide bar, as well as static displays. Lots of Pandas data transformation techniques used including `groupby`, SQL Left Join and array-to-dictionary transformation. Both Linear and Histogram Equalization plots are created. Handy template notebook.
 
 **[Useful-Resources.ipynb](https://nbviewer.jupyter.org/github/Atlas7/visualize-traffic-accidents-in-uk/blob/master/notebooks/Useful-Resources.ipynb)**: I use this notebook to keep track of useful links. Will be updated from time to time.
+
+**[Kaggle Titanic Version 1](https://nbviewer.jupyter.org/github/Atlas7/visualize-traffic-accidents-in-uk/blob/master/notebooks/Kaggle-Titanic-Version-1.ipynb)**: my attempt to apply machine learning in a real-world dataset. This could be a handy reference for machine learning and data cleaning work.
+
+**[EDA Traffic Accidents Dataset](https://nbviewer.jupyter.org/github/Atlas7/visualize-traffic-accidents-in-uk/blob/master/notebooks/Exploratory-Data-Analysis-Accidents-Dataset.ipynb)**: include some handy Pandas tricks.
